@@ -38,7 +38,7 @@ void main() {
       ),
       body: Center(
         child: Image(
-          image: NetworkImage('https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg'),
+          image: NetworkImage('https://www.pngkit.com/png/full/19-196131_happy-christmas-tree-png.png'),
         ),
       ),
     ),
