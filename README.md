@@ -1,4 +1,4 @@
-# flutter_i_am_poor
+# flutter_app_I_am_poor_demo
 
 A new Flutter application for learn basic.
 
